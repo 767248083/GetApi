@@ -7,11 +7,11 @@
 
 本文主要包含以下内容
 
-> 什么是 GetAPI ？
-灵活的项目管理
-团队协作与接口开发
-流程测试与压力测试
-导入第三方API调试工具的项目
+> 什么是 GetAPI ？ 
+灵活的项目管理  
+团队协作与接口开发  
+流程测试与压力测试  
+导入第三方API调试工具的项目  
 
 ## **什么是 GetAPI ？**
 
@@ -67,13 +67,8 @@ GetAPI 目前支持 postman 的项目直接导入，后续将支持 swagger 等�
 
 欢迎大家在使用过程中有任何问题，或者有好的建议和想法，请加入我们的官方群进行进行沟通交流。
 
-<figure>
-    <center>
-        <img src="https://getapi.run/recommend/qrcode_qq.jpg" width="250px" height="400px" />
-        <img src="https://getapi.run/recommend/qrcode_wechat.jpg" width="250px" height="400px"  />
-    </figure>
-</center>
 
+<img src="https://getapi.run/recommend/qrcode_qq.jpg" width="250px" height="400px" align=center /><img src="https://getapi.run/recommend/qrcode_wechat.jpg" width="250px" height="400px" align=center />
 
 
 
